@@ -1,7 +1,7 @@
 {
   "name": "asjad-calculator",
-  "version": "1.0.1",
-  "description": "A Simple calculator",
+  "version": "2.0.0",
+  "description": "A Simple calculator where you can ADD, SUB, MULTIPLY, DIVIDE, PERCENTAGE , POWER",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
